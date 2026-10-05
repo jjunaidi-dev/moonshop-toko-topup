@@ -1,0 +1,9 @@
+<html>
+    <head>
+        <title>Admin Dashboard</title>
+    </head>
+    <body>
+        <h1>Admin Dashboard</h1>
+        <p>Welcome, Admin!</p>
+    </body>
+</html>
